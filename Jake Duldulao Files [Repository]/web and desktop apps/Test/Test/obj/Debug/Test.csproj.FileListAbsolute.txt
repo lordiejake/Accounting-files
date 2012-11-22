@@ -1,0 +1,10 @@
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\Test\Test\obj\Debug\Test.pdb
+D:\C#\Test\Test\obj\Debug\Test.exe
+D:\C#\Test\Test\obj\Debug\Test.pdb

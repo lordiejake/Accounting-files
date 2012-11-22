@@ -1,0 +1,74 @@
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form1.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Properties.Resources.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.GenerateResource.Cache
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form2.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form3.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form4.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form5.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form6.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form7.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form8.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form9.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form10.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form11.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form12.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form13.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form14.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form15.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form16.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form17.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form18.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form19.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form20.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.PrintForm.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form21.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.Print2.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.print3.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.print4.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.Print5.resources
+C:\Users\DuldulaoKzes\Documents\Visual Studio 2008\Projects\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.formprint2.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+D:\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+D:\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form1.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form10.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form11.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form12.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form13.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form14.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form15.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form16.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form17.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form18.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form19.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form2.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form20.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form21.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form3.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form4.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form5.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form6.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form7.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form8.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form9.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.print4.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.Print5.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.formprint2.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.Print2.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.print3.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Printing.PrintForm.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Properties.Resources.resources
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.GenerateResource.Cache
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form22.resources
+D:\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.manifest
+D:\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.application
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe.manifest
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.application
+D:\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Payments.resources

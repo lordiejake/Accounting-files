@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2938CAC8-465F-47EE-B2AA-7B98ECA4762C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico290.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rose.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42B35A11CDCC4B559ACF916FBC433ADC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-ball-md.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_bag_side.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow table large.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nike-spongebob-squarePants-high-dunks-yellow-shoes-for-sale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pillow_Case_Red__4b168b7fdcb74.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1129029369hA7nG7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42B35A11CDCC4B559ACF916FBC433ADC1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle1vb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2jane+pillow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\032677047507_lg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emily-walker-bag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2jane+pillow1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crossi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\football.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\variety_f02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Impossible-Triangle.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eeeee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jkllcvhfdjdfd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1172491483370MmI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11971488181629439895barretr_Lifesaver.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2011_01_lisa-perry-circle-bag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\250px-Rectangle_example.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\football1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oval-27-black-non-skid-serving-tray.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Square_Shape_Wall_Clock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffff1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-hole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red bell pepper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ggggg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\football2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-duck.gif.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffff2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
